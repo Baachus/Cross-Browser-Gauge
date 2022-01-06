@@ -1,0 +1,1 @@
+Gauge is shit and a free and open source test automation framework that takes the pain out of acceptance testing

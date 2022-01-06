@@ -1,0 +1,11 @@
+[
+	"C:\\Program Files\\gauge\\bin\\gauge.exe",
+	"run",
+	"--machine-readable",
+	"--hide-suggestion",
+	"--simple-console",
+	"--env",
+	"chrome",
+	"--parallel",
+	"C:/Users/Baachus/IdeaProjects/test_cross_browser_Gauge/specs"
+]
